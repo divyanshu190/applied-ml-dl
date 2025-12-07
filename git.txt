@@ -1,0 +1,4 @@
+commands for pushing something on gihub
+git add file_name
+git commit -m "Add XRboost notebook"
+git push 
