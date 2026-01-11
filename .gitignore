@@ -1,4 +1,13 @@
-# macOS system files
+.venv/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.jpeg
+*.jpg
+*.png
+*.numbers
+.env# macOS system files
 .DS_Store
 
 # Python virtual environments
